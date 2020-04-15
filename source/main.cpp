@@ -1,7 +1,7 @@
 // Testing out the git. 
 #include <iostream>
-using namespace std;
+
 
 int main(){
-    cout << "Hello";
+    std::cout << "Hello, GEt ready to learn git ><  " << std::endl ;
 }
